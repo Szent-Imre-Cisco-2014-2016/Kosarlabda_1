@@ -15,4 +15,4 @@ válogassuk ki egy !csapat! 190 cm-nél magasabb játékosait |
 összes kosárlabdázó játékos neve |
 játékosok nevei amelyik mindegyik csapatban játszanak |
 játékosok nevei névsorban |
-kovács vezetéknevű játékos van-e? |
+kovács vezetéknevű játékos van-e?
